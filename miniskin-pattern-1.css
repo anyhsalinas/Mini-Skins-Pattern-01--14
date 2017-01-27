@@ -34,13 +34,13 @@
 
 #player, #player a{color: transparent;}
 #player{background: transparent; font-size: 10px; font-family: 'Baumans', Helvetica, sans-serif; text-transform: uppercase;}
-#player .mainImage{background: url('https://anyhsalinas.github.io/Mini-Skins-Pattern-01--14/master/miniskin-pattern-1-a.png');}
+#player .mainImage{background: url('https://anyhsalinas.github.io/mini-skins-pattern-01--14/miniskin-pattern-1-a.png');}
 
 #player #baseLeft{width: 93px;}
 #player #baseRight{width: 145px;}
 #player .button{width: 26px;}
-#player #play{background: url('https://anyhsalinas.github.io/Mini-Skins-Pattern-01--14/master/miniskin-pattern-1-b.png');}
-#player #pause{background: url('https://anyhsalinas.github.io/Mini-Skins-Pattern-01--14/master/miniskin-pattern-1-c.png');}
+#player #play{background: url('https://anyhsalinas.github.io/mini-skins-pattern-01--14/miniskin-pattern-1-b.png');}
+#player #pause{background: url('https://anyhsalinas.github.io/mini-skins-pattern-01--14/miniskin-pattern-1-c.png');}
 #player #play,#player #pause{left: 0px; width: 22px;}
 #player #previous{left: 22px; width: 26px;}
 #player #next{left: 48px; width: 25px;}
